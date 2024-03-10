@@ -27,7 +27,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔸 Language: [Python 3](https://www.python.org)
 │
-├🔹 Library: [Pyrogram](https://docs.pyrogram.org)
+├🔹 Library: [Pyrogram]()
 │
 ├🔸 Developer: [Mr. Abhii](https://telegram.me/Mr_ABHiiSHEK)
 │
