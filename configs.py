@@ -23,20 +23,23 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 
 ╭────[ 🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅]────⍟
 │
-├🔸 My Name: [FileStore Bot](https://t.me/{BOT_USERNAME})
+├🔸 My Name: [AbhiiStore Bot](https://t.me/{BOT_USERNAME})
 │
 ├🔸 Language: [Python 3](https://www.python.org)
 │
 ├🔹 Library: [Pyrogram](https://docs.pyrogram.org)
 │
+├🔸 Developer: [Mr. Abhii](https://telegram.me/Mr_ABHiiSHEK)
+│
+├🔸 Update Channel: [Channel](https://t.me/Movilious)
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://telegram.me/KingVj01)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [Mr. Abhii](https://telegram.me/Mr_ABHiiSHEK)
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/KingVj01)
+[Donate Me](https://telegram.me/Mr_ABHiiSHEK)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
