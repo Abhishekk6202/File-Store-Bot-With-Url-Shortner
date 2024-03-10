@@ -32,6 +32,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ├🔸 Developer: [Mr. Abhii](https://telegram.me/Mr_ABHiiSHEK)
 │
 ├🔸 Update Channel: [Channel](https://t.me/Movilious)
+│
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
